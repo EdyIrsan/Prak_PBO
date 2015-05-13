@@ -41,7 +41,7 @@ public class Latihan1 {
 	public static void concat () {
 		
 		String stringPertama = "ini Edy";
-		String stringKedua   = " dan Kiki";
+		String stringKedua   = " dan sada";
 		String stringketiga  = stringPertama + stringKedua;
 		System.out.println(stringketiga);
 		
